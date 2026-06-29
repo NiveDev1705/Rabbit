@@ -1,0 +1,10 @@
+# Postcard Claimer – Rewards (id,Anzahl)
+spring_26_plaza_crystal,10
+spring_26_forest2_crystal,5
+spring_26_forest_crystal,2
+spring_26_crystal_minigame_forest2,3
+spring_26_crystal_minigame_forest,3
+spring_26_crystal_minigame_beach,3
+spring_26_crystal_minigame_plaza,3
+spring_26_beach_crystal,8
+spring_26_vip_club_crystal,2
