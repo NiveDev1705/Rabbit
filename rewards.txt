@@ -1,10 +1,13 @@
 # Postcard Claimer – Rewards (id,Anzahl)
-spring_26_plaza_crystal,10
-spring_26_forest2_crystal,5
-spring_26_forest_crystal,2
-spring_26_crystal_minigame_forest2,3
-spring_26_crystal_minigame_forest,3
-spring_26_crystal_minigame_beach,3
-spring_26_crystal_minigame_plaza,3
-spring_26_beach_crystal,8
-spring_26_vip_club_crystal,2
+summer_26_plaza_postcard,10
+summer_26_diamond_shop_postcard,3
+summer_26_desert_postcard,2
+summer_26_post_minigame_forest,3
+summer_26_post_minigame_beach,3
+summer_26_post_minigame_plaza,3
+summer_26_beach_postcard,8
+summer_26_vip_club_postcard,2
+summer_26_party_night_postcard,5
+summer_26_party_day_postcard,5
+summer_26_under_water_postcard,5
+summer_26_post_minigame_party_island,3
